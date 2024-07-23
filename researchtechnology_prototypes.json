@@ -9,7 +9,7 @@
   },
   {
     "id": "SalvageWeapons",
-    "name": "research-technology-salvage-weapons",
+    "name": "Вооружение для утилизации",
     "discipline": "Arsenal",
     "tier": 1,
     "cost": 5000,
@@ -20,7 +20,7 @@
   },
   {
     "id": "DraconicMunitions",
-    "name": "research-technology-draconic-munitions",
+    "name": "Драконьи боеприпасы",
     "discipline": "Arsenal",
     "tier": 1,
     "cost": 10000,
@@ -38,7 +38,7 @@
   },
   {
     "id": "WeaponizedLaserManipulation",
-    "name": "research-technology-weaponized-laser-manipulation",
+    "name": "Лазерные технологии в оружии",
     "discipline": "Arsenal",
     "tier": 1,
     "cost": 7500,
@@ -48,7 +48,7 @@
   },
   {
     "id": "NonlethalAmmunition",
-    "name": "research-technology-nonlethal-ammunition",
+    "name": "Нелетальные боеприпасы",
     "discipline": "Arsenal",
     "tier": 1,
     "cost": 5000,
@@ -66,7 +66,7 @@
   },
   {
     "id": "UraniumMunitions",
-    "name": "research-technology-uranium-munitions",
+    "name": "Урановые боеприпасы",
     "discipline": "Arsenal",
     "tier": 1,
     "cost": 7500,
@@ -84,7 +84,7 @@
   },
   {
     "id": "AdvancedRiotControl",
-    "name": "research-technology-advanced-riot-control",
+    "name": "Продвинутое противодействие беспорядкам",
     "discipline": "Arsenal",
     "tier": 1,
     "cost": 8000,
@@ -107,7 +107,7 @@
   },
   {
     "id": "ExplosiveTechnology",
-    "name": "research-technology-explosive-technology",
+    "name": "Взрывные технологии",
     "discipline": "Arsenal",
     "tier": 2,
     "cost": 10000,
@@ -123,7 +123,7 @@
   },
   {
     "id": "ConcentratedLaserWeaponry",
-    "name": "research-technology-concentrated-laser-weaponry",
+    "name": "Оружие из концентрированного лазера",
     "discipline": "Arsenal",
     "tier": 2,
     "cost": 10000,
@@ -133,7 +133,7 @@
   },
   {
     "id": "WaveParticleHarnessing",
-    "name": "research-technology-wave-particle-harnessing",
+    "name": "Применение волновых частиц",
     "discipline": "Arsenal",
     "tier": 2,
     "cost": 10000,
@@ -143,7 +143,7 @@
   },
   {
     "id": "BasicShuttleArmament",
-    "name": "research-technology-basic-shuttle-armament",
+    "name": "Базовое корабельное вооружение",
     "discipline": "Arsenal",
     "tier": 2,
     "cost": 10500,
@@ -170,7 +170,7 @@
   },
   {
     "id": "PortableMicrofusionWeaponry",
-    "name": "research-technology-portable-microfusion-weaponry",
+    "name": "Оруженый портативный микросинтез",
     "discipline": "Arsenal",
     "tier": 3,
     "cost": 15000,
@@ -180,7 +180,7 @@
   },
   {
     "id": "ExperimentalBatteryAmmo",
-    "name": "research-technology-experimental-battery-ammo",
+    "name": "Экспериментальные боеприпасы-батарейки",
     "discipline": "Arsenal",
     "tier": 3,
     "cost": 15000,
@@ -190,7 +190,7 @@
   },
   {
     "id": "AdvancedShuttleWeapon",
-    "name": "research-technology-advanced-shuttle-weapon",
+    "name": "Продвинутое корабельное оружие",
     "discipline": "Arsenal",
     "tier": 3,
     "cost": 15000,
@@ -202,7 +202,7 @@
   },
   {
     "id": "Hydroponics",
-    "name": "research-technology-basic-hydroponics",
+    "name": "Основы гидропоники",
     "discipline": "CivilianServices",
     "tier": 1,
     "cost": 5000,
@@ -216,7 +216,7 @@
   },
   {
     "id": "CritterMechs",
-    "name": "research-technology-critter-mechs",
+    "name": "Мехи для животных",
     "discipline": "CivilianServices",
     "tier": 1,
     "cost": 7500,
@@ -234,7 +234,7 @@
   },
   {
     "id": "AudioVisualCommunication",
-    "name": "research-technology-audio-visual-communication",
+    "name": "ТВ связь",
     "discipline": "CivilianServices",
     "tier": 1,
     "cost": 5000,
@@ -250,7 +250,7 @@
   },
   {
     "id": "AdvancedEntertainment",
-    "name": "research-technology-advanced-entertainment",
+    "name": "Продвинутые развлечения",
     "discipline": "CivilianServices",
     "tier": 1,
     "cost": 7500,
@@ -266,7 +266,7 @@
   },
   {
     "id": "RoboticCleanliness",
-    "name": "research-technology-robotic-cleanliness",
+    "name": "Роботизированная уборка",
     "discipline": "CivilianServices",
     "tier": 1,
     "cost": 5000,
@@ -277,7 +277,7 @@
   },
   {
     "id": "MeatManipulation",
-    "name": "research-technology-meat-manipulation",
+    "name": "Манипулирование мясом",
     "discipline": "CivilianServices",
     "tier": 1,
     "cost": 7500,
@@ -289,7 +289,7 @@
   },
   {
     "id": "FauxAstroTiles",
-    "name": "research-technology-faux-astro-tiles",
+    "name": "искуственная астроплитка",
     "discipline": "CivilianServices",
     "tier": 2,
     "cost": 5000,
@@ -303,7 +303,7 @@
   },
   {
     "id": "BiochemicalStasis",
-    "name": "research-technology-biochemical-stasis",
+    "name": "Биохимический стазис",
     "discipline": "CivilianServices",
     "tier": 2,
     "cost": 7500,
@@ -316,7 +316,7 @@
   },
   {
     "id": "CrewMonitoring",
-    "name": "research-technology-crew-monitoring",
+    "name": "Отслеживание состояние экипажа",
     "discipline": "CivilianServices",
     "tier": 2,
     "cost": 10000,
@@ -326,7 +326,7 @@
   },
   {
     "id": "MechanizedTreatment",
-    "name": "research-technology-mechanized-treatment",
+    "name": "Mechanized Treatment",
     "discipline": "CivilianServices",
     "tier": 2,
     "cost": 5000,
@@ -337,7 +337,7 @@
   },
   {
     "id": "AdvancedCleaning",
-    "name": "research-technology-advanced-cleaning",
+    "name": "Продвинутая уборка",
     "discipline": "CivilianServices",
     "tier": 2,
     "cost": 10000,
@@ -348,7 +348,7 @@
   },
   {
     "id": "HONKMech",
-    "name": "research-technology-honk-mech",
+    "name": "Мех Х.О.Н.К.",
     "discipline": "CivilianServices",
     "tier": 2,
     "cost": 7500,
@@ -366,7 +366,7 @@
   },
   {
     "id": "AdvancedSpray",
-    "name": "research-technology-advanced-spray",
+    "name": "Продвинутые спреи",
     "discipline": "CivilianServices",
     "tier": 2,
     "cost": 10000,
@@ -377,7 +377,7 @@
   },
   {
     "id": "BluespaceCargoTransport",
-    "name": "research-technology-bluespace-cargo-transport",
+    "name": "Блюспейс-транспортировка грузов",
     "discipline": "CivilianServices",
     "tier": 3,
     "cost": 15000,
@@ -387,7 +387,7 @@
   },
   {
     "id": "QuantumFiberWeaving",
-    "name": "research-technology-quantum-fiber-weaving",
+    "name": "Плетение квантового волокна",
     "discipline": "CivilianServices",
     "tier": 3,
     "cost": 10000,
@@ -397,7 +397,7 @@
   },
   {
     "id": "BluespaceChemistry",
-    "name": "research-technology-bluespace-chemistry",
+    "name": "Блюспейс химия",
     "discipline": "CivilianServices",
     "tier": 3,
     "cost": 10000,
@@ -408,7 +408,7 @@
   },
   {
     "id": "BasicRobotics",
-    "name": "research-technology-basic-robotics",
+    "name": "Основы робототехники",
     "discipline": "Experimental",
     "tier": 1,
     "cost": 5000,
@@ -420,7 +420,7 @@
   },
   {
     "id": "BasicAnomalousResearch",
-    "name": "research-technology-basic-anomalous-research",
+    "name": "Основы исследования аномалий",
     "discipline": "Experimental",
     "tier": 1,
     "cost": 5000,
@@ -435,7 +435,7 @@
   },
   {
     "id": "BasicXenoArcheology",
-    "name": "research-technology-basic-xenoarcheology",
+    "name": "Основы ксеноархеологии",
     "discipline": "Experimental",
     "tier": 1,
     "cost": 5000,
@@ -448,7 +448,7 @@
   },
   {
     "id": "AlternativeResearch",
-    "name": "research-technology-alternative-research",
+    "name": "Альтернативные исследования",
     "discipline": "Experimental",
     "tier": 1,
     "cost": 5000,
@@ -458,7 +458,7 @@
   },
   {
     "id": "MagnetsTech",
-    "name": "research-technology-magnets-tech",
+    "name": "Локализованный магнетизм",
     "discipline": "Experimental",
     "tier": 1,
     "cost": 7500,
@@ -468,7 +468,7 @@
   },
   {
     "id": "AnomalyCoreHarnessing",
-    "name": "research-technology-anomaly-harnessing",
+    "name": "Применение ядер аномалий",
     "discipline": "Experimental",
     "tier": 1,
     "cost": 10000,
@@ -478,7 +478,7 @@
   },
   {
     "id": "AbnormalArtifactManipulation",
-    "name": "research-technology-abnormal-artifact-manipulation",
+    "name": "Нестандартные манипуляции с артефактами",
     "discipline": "Experimental",
     "tier": 2,
     "cost": 5000,
@@ -489,7 +489,7 @@
   },
   {
     "id": "AdvancedAnomalyResearch",
-    "name": "research-technology-advanced-anomaly-research",
+    "name": "Продвинутое исследование аномалией",
     "discipline": "Experimental",
     "tier": 2,
     "cost": 10000,
@@ -501,7 +501,7 @@
   },
   {
     "id": "DeterrenceTechnologies",
-    "name": "research-technology-deterrence",
+    "name": "Технология сдерживания",
     "discipline": "Experimental",
     "tier": 2,
     "cost": 7500,
@@ -512,7 +512,7 @@
   },
   {
     "id": "GravityManipulation",
-    "name": "research-technology-gravity-manipulation",
+    "name": "Управление гравитацией",
     "discipline": "Experimental",
     "tier": 3,
     "cost": 10000,
@@ -523,7 +523,7 @@
   },
   {
     "id": "QuantumLeaping",
-    "name": "research-technology-quantum-leaping",
+    "name": "Квантовые скачки",
     "discipline": "Experimental",
     "tier": 3,
     "cost": 10000,
@@ -533,7 +533,7 @@
   },
   {
     "id": "SalvageEquipment",
-    "name": "research-technology-salvage-equipment",
+    "name": "Утилизационное оборудование",
     "discipline": "Industrial",
     "tier": 1,
     "cost": 7500,
@@ -547,7 +547,7 @@
   },
   {
     "id": "AdvancedPowercells",
-    "name": "research-technology-advanced-powercells",
+    "name": "Продвинутые элементы питания",
     "discipline": "Industrial",
     "tier": 1,
     "cost": 7500,
@@ -558,7 +558,7 @@
   },
   {
     "id": "MechanicalCompression",
-    "name": "research-technology-mechanical-compression",
+    "name": "Механическое уплотнение",
     "discipline": "Industrial",
     "tier": 1,
     "cost": 10000,
@@ -568,7 +568,7 @@
   },
   {
     "id": "IndustrialEngineering",
-    "name": "research-technology-industrial-engineering",
+    "name": "Промышленная инженерия",
     "discipline": "Industrial",
     "tier": 1,
     "cost": 10000,
@@ -580,7 +580,7 @@
   },
   {
     "id": "PowerGeneration",
-    "name": "research-technology-power-generation",
+    "name": "Выработка электроэнергии",
     "discipline": "Industrial",
     "tier": 1,
     "cost": 7500,
@@ -596,7 +596,7 @@
   },
   {
     "id": "AtmosphericTech",
-    "name": "research-technology-atmospheric-tech",
+    "name": "Атмосферные технологии",
     "discipline": "Industrial",
     "tier": 1,
     "cost": 7500,
@@ -607,7 +607,7 @@
   },
   {
     "id": "RipleyAPLU",
-    "name": "research-technology-ripley-aplu",
+    "name": "Рипли АВП",
     "discipline": "Industrial",
     "tier": 1,
     "cost": 7500,
@@ -624,7 +624,7 @@
   },
   {
     "id": "Grappling",
-    "name": "research-technology-grappling",
+    "name": "Крюки",
     "discipline": "Industrial",
     "tier": 1,
     "cost": 5000,
@@ -647,7 +647,7 @@
   },
   {
     "id": "Shuttlecraft",
-    "name": "research-technology-shuttlecraft",
+    "name": "Шаттлстроение",
     "discipline": "Industrial",
     "tier": 2,
     "cost": 10000,
@@ -660,7 +660,7 @@
   },
   {
     "id": "AdvancedAtmospherics",
-    "name": "research-technology-advanced-atmospherics",
+    "name": "Продвинутые атмосферные технологии",
     "discipline": "Industrial",
     "tier": 2,
     "cost": 7500,
@@ -672,7 +672,7 @@
   },
   {
     "id": "AdvancedToolsTechnology",
-    "name": "research-technology-advanced-tools",
+    "name": "Продвинутые инструменты",
     "discipline": "Industrial",
     "tier": 2,
     "cost": 10000,
@@ -686,7 +686,7 @@
   },
   {
     "id": "BluespaceStorage",
-    "name": "research-technology-bluespace-storage",
+    "name": "Блюспейс хранилища",
     "discipline": "Industrial",
     "tier": 3,
     "cost": 15000,
@@ -698,7 +698,7 @@
   },
   {
     "id": "PortableFission",
-    "name": "research-technology-portable-fission",
+    "name": "Портативный распад",
     "discipline": "Industrial",
     "tier": 3,
     "cost": 10000,
@@ -718,7 +718,7 @@
   },
   {
     "id": "NightVisionTech",
-    "name": "research-technology-night-vision",
+    "name": "Технологии ночного видения",
     "discipline": "Experimental",
     "tier": 2,
     "cost": 10000,
@@ -738,7 +738,7 @@
   },
   {
     "id": "SalvageWeapons",
-    "name": "research-technology-salvage-weapons",
+    "name": "Вооружение для утилизации",
     "discipline": "Arsenal",
     "tier": 1,
     "cost": 5000,
@@ -749,7 +749,7 @@
   },
   {
     "id": "DraconicMunitions",
-    "name": "research-technology-draconic-munitions",
+    "name": "Драконьи боеприпасы",
     "discipline": "Arsenal",
     "tier": 1,
     "cost": 10000,
@@ -767,7 +767,7 @@
   },
   {
     "id": "WeaponizedLaserManipulation",
-    "name": "research-technology-weaponized-laser-manipulation",
+    "name": "Лазерные технологии в оружии",
     "discipline": "Arsenal",
     "tier": 1,
     "cost": 7500,
@@ -777,7 +777,7 @@
   },
   {
     "id": "NonlethalAmmunition",
-    "name": "research-technology-nonlethal-ammunition",
+    "name": "Нелетальные боеприпасы",
     "discipline": "Arsenal",
     "tier": 1,
     "cost": 5000,
@@ -795,7 +795,7 @@
   },
   {
     "id": "UraniumMunitions",
-    "name": "research-technology-uranium-munitions",
+    "name": "Урановые боеприпасы",
     "discipline": "Arsenal",
     "tier": 1,
     "cost": 7500,
@@ -813,7 +813,7 @@
   },
   {
     "id": "AdvancedRiotControl",
-    "name": "research-technology-advanced-riot-control",
+    "name": "Продвинутое противодействие беспорядкам",
     "discipline": "Arsenal",
     "tier": 1,
     "cost": 8000,
@@ -836,7 +836,7 @@
   },
   {
     "id": "ExplosiveTechnology",
-    "name": "research-technology-explosive-technology",
+    "name": "Взрывные технологии",
     "discipline": "Arsenal",
     "tier": 2,
     "cost": 10000,
@@ -852,7 +852,7 @@
   },
   {
     "id": "ConcentratedLaserWeaponry",
-    "name": "research-technology-concentrated-laser-weaponry",
+    "name": "Оружие из концентрированного лазера",
     "discipline": "Arsenal",
     "tier": 2,
     "cost": 10000,
@@ -862,7 +862,7 @@
   },
   {
     "id": "WaveParticleHarnessing",
-    "name": "research-technology-wave-particle-harnessing",
+    "name": "Применение волновых частиц",
     "discipline": "Arsenal",
     "tier": 2,
     "cost": 10000,
@@ -872,7 +872,7 @@
   },
   {
     "id": "BasicShuttleArmament",
-    "name": "research-technology-basic-shuttle-armament",
+    "name": "Базовое корабельное вооружение",
     "discipline": "Arsenal",
     "tier": 2,
     "cost": 10500,
@@ -899,7 +899,7 @@
   },
   {
     "id": "PortableMicrofusionWeaponry",
-    "name": "research-technology-portable-microfusion-weaponry",
+    "name": "Оруженый портативный микросинтез",
     "discipline": "Arsenal",
     "tier": 3,
     "cost": 15000,
@@ -909,7 +909,7 @@
   },
   {
     "id": "ExperimentalBatteryAmmo",
-    "name": "research-technology-experimental-battery-ammo",
+    "name": "Экспериментальные боеприпасы-батарейки",
     "discipline": "Arsenal",
     "tier": 3,
     "cost": 15000,
@@ -919,7 +919,7 @@
   },
   {
     "id": "AdvancedShuttleWeapon",
-    "name": "research-technology-advanced-shuttle-weapon",
+    "name": "Продвинутое корабельное оружие",
     "discipline": "Arsenal",
     "tier": 3,
     "cost": 15000,
@@ -931,7 +931,7 @@
   },
   {
     "id": "Hydroponics",
-    "name": "research-technology-basic-hydroponics",
+    "name": "Основы гидропоники",
     "discipline": "CivilianServices",
     "tier": 1,
     "cost": 5000,
@@ -945,7 +945,7 @@
   },
   {
     "id": "CritterMechs",
-    "name": "research-technology-critter-mechs",
+    "name": "Мехи для животных",
     "discipline": "CivilianServices",
     "tier": 1,
     "cost": 7500,
@@ -963,7 +963,7 @@
   },
   {
     "id": "AudioVisualCommunication",
-    "name": "research-technology-audio-visual-communication",
+    "name": "ТВ связь",
     "discipline": "CivilianServices",
     "tier": 1,
     "cost": 5000,
@@ -979,7 +979,7 @@
   },
   {
     "id": "AdvancedEntertainment",
-    "name": "research-technology-advanced-entertainment",
+    "name": "Продвинутые развлечения",
     "discipline": "CivilianServices",
     "tier": 1,
     "cost": 7500,
@@ -995,7 +995,7 @@
   },
   {
     "id": "RoboticCleanliness",
-    "name": "research-technology-robotic-cleanliness",
+    "name": "Роботизированная уборка",
     "discipline": "CivilianServices",
     "tier": 1,
     "cost": 5000,
@@ -1006,7 +1006,7 @@
   },
   {
     "id": "MeatManipulation",
-    "name": "research-technology-meat-manipulation",
+    "name": "Манипулирование мясом",
     "discipline": "CivilianServices",
     "tier": 1,
     "cost": 7500,
@@ -1018,7 +1018,7 @@
   },
   {
     "id": "FauxAstroTiles",
-    "name": "research-technology-faux-astro-tiles",
+    "name": "искуственная астроплитка",
     "discipline": "CivilianServices",
     "tier": 2,
     "cost": 5000,
@@ -1032,7 +1032,7 @@
   },
   {
     "id": "BiochemicalStasis",
-    "name": "research-technology-biochemical-stasis",
+    "name": "Биохимический стазис",
     "discipline": "CivilianServices",
     "tier": 2,
     "cost": 7500,
@@ -1045,7 +1045,7 @@
   },
   {
     "id": "CrewMonitoring",
-    "name": "research-technology-crew-monitoring",
+    "name": "Отслеживание состояние экипажа",
     "discipline": "CivilianServices",
     "tier": 2,
     "cost": 10000,
@@ -1055,7 +1055,7 @@
   },
   {
     "id": "MechanizedTreatment",
-    "name": "research-technology-mechanized-treatment",
+    "name": "Mechanized Treatment",
     "discipline": "CivilianServices",
     "tier": 2,
     "cost": 5000,
@@ -1066,7 +1066,7 @@
   },
   {
     "id": "AdvancedCleaning",
-    "name": "research-technology-advanced-cleaning",
+    "name": "Продвинутая уборка",
     "discipline": "CivilianServices",
     "tier": 2,
     "cost": 10000,
@@ -1077,7 +1077,7 @@
   },
   {
     "id": "HONKMech",
-    "name": "research-technology-honk-mech",
+    "name": "Мех Х.О.Н.К.",
     "discipline": "CivilianServices",
     "tier": 2,
     "cost": 7500,
@@ -1095,7 +1095,7 @@
   },
   {
     "id": "AdvancedSpray",
-    "name": "research-technology-advanced-spray",
+    "name": "Продвинутые спреи",
     "discipline": "CivilianServices",
     "tier": 2,
     "cost": 10000,
@@ -1106,7 +1106,7 @@
   },
   {
     "id": "BluespaceCargoTransport",
-    "name": "research-technology-bluespace-cargo-transport",
+    "name": "Блюспейс-транспортировка грузов",
     "discipline": "CivilianServices",
     "tier": 3,
     "cost": 15000,
@@ -1116,7 +1116,7 @@
   },
   {
     "id": "QuantumFiberWeaving",
-    "name": "research-technology-quantum-fiber-weaving",
+    "name": "Плетение квантового волокна",
     "discipline": "CivilianServices",
     "tier": 3,
     "cost": 10000,
@@ -1126,7 +1126,7 @@
   },
   {
     "id": "BluespaceChemistry",
-    "name": "research-technology-bluespace-chemistry",
+    "name": "Блюспейс химия",
     "discipline": "CivilianServices",
     "tier": 3,
     "cost": 10000,
@@ -1137,7 +1137,7 @@
   },
   {
     "id": "BasicRobotics",
-    "name": "research-technology-basic-robotics",
+    "name": "Основы робототехники",
     "discipline": "Experimental",
     "tier": 1,
     "cost": 5000,
@@ -1149,7 +1149,7 @@
   },
   {
     "id": "BasicAnomalousResearch",
-    "name": "research-technology-basic-anomalous-research",
+    "name": "Основы исследования аномалий",
     "discipline": "Experimental",
     "tier": 1,
     "cost": 5000,
@@ -1164,7 +1164,7 @@
   },
   {
     "id": "BasicXenoArcheology",
-    "name": "research-technology-basic-xenoarcheology",
+    "name": "Основы ксеноархеологии",
     "discipline": "Experimental",
     "tier": 1,
     "cost": 5000,
@@ -1177,7 +1177,7 @@
   },
   {
     "id": "AlternativeResearch",
-    "name": "research-technology-alternative-research",
+    "name": "Альтернативные исследования",
     "discipline": "Experimental",
     "tier": 1,
     "cost": 5000,
@@ -1187,7 +1187,7 @@
   },
   {
     "id": "MagnetsTech",
-    "name": "research-technology-magnets-tech",
+    "name": "Локализованный магнетизм",
     "discipline": "Experimental",
     "tier": 1,
     "cost": 7500,
@@ -1197,7 +1197,7 @@
   },
   {
     "id": "AnomalyCoreHarnessing",
-    "name": "research-technology-anomaly-harnessing",
+    "name": "Применение ядер аномалий",
     "discipline": "Experimental",
     "tier": 1,
     "cost": 10000,
@@ -1207,7 +1207,7 @@
   },
   {
     "id": "AbnormalArtifactManipulation",
-    "name": "research-technology-abnormal-artifact-manipulation",
+    "name": "Нестандартные манипуляции с артефактами",
     "discipline": "Experimental",
     "tier": 2,
     "cost": 5000,
@@ -1218,7 +1218,7 @@
   },
   {
     "id": "AdvancedAnomalyResearch",
-    "name": "research-technology-advanced-anomaly-research",
+    "name": "Продвинутое исследование аномалией",
     "discipline": "Experimental",
     "tier": 2,
     "cost": 10000,
@@ -1230,7 +1230,7 @@
   },
   {
     "id": "DeterrenceTechnologies",
-    "name": "research-technology-deterrence",
+    "name": "Технология сдерживания",
     "discipline": "Experimental",
     "tier": 2,
     "cost": 7500,
@@ -1241,7 +1241,7 @@
   },
   {
     "id": "GravityManipulation",
-    "name": "research-technology-gravity-manipulation",
+    "name": "Управление гравитацией",
     "discipline": "Experimental",
     "tier": 3,
     "cost": 10000,
@@ -1252,7 +1252,7 @@
   },
   {
     "id": "QuantumLeaping",
-    "name": "research-technology-quantum-leaping",
+    "name": "Квантовые скачки",
     "discipline": "Experimental",
     "tier": 3,
     "cost": 10000,
@@ -1262,7 +1262,7 @@
   },
   {
     "id": "SalvageEquipment",
-    "name": "research-technology-salvage-equipment",
+    "name": "Утилизационное оборудование",
     "discipline": "Industrial",
     "tier": 1,
     "cost": 7500,
@@ -1276,7 +1276,7 @@
   },
   {
     "id": "AdvancedPowercells",
-    "name": "research-technology-advanced-powercells",
+    "name": "Продвинутые элементы питания",
     "discipline": "Industrial",
     "tier": 1,
     "cost": 7500,
@@ -1287,7 +1287,7 @@
   },
   {
     "id": "MechanicalCompression",
-    "name": "research-technology-mechanical-compression",
+    "name": "Механическое уплотнение",
     "discipline": "Industrial",
     "tier": 1,
     "cost": 10000,
@@ -1297,7 +1297,7 @@
   },
   {
     "id": "IndustrialEngineering",
-    "name": "research-technology-industrial-engineering",
+    "name": "Промышленная инженерия",
     "discipline": "Industrial",
     "tier": 1,
     "cost": 10000,
@@ -1309,7 +1309,7 @@
   },
   {
     "id": "PowerGeneration",
-    "name": "research-technology-power-generation",
+    "name": "Выработка электроэнергии",
     "discipline": "Industrial",
     "tier": 1,
     "cost": 7500,
@@ -1325,7 +1325,7 @@
   },
   {
     "id": "AtmosphericTech",
-    "name": "research-technology-atmospheric-tech",
+    "name": "Атмосферные технологии",
     "discipline": "Industrial",
     "tier": 1,
     "cost": 7500,
@@ -1336,7 +1336,7 @@
   },
   {
     "id": "RipleyAPLU",
-    "name": "research-technology-ripley-aplu",
+    "name": "Рипли АВП",
     "discipline": "Industrial",
     "tier": 1,
     "cost": 7500,
@@ -1353,7 +1353,7 @@
   },
   {
     "id": "Grappling",
-    "name": "research-technology-grappling",
+    "name": "Крюки",
     "discipline": "Industrial",
     "tier": 1,
     "cost": 5000,
@@ -1376,7 +1376,7 @@
   },
   {
     "id": "Shuttlecraft",
-    "name": "research-technology-shuttlecraft",
+    "name": "Шаттлстроение",
     "discipline": "Industrial",
     "tier": 2,
     "cost": 10000,
@@ -1389,7 +1389,7 @@
   },
   {
     "id": "AdvancedAtmospherics",
-    "name": "research-technology-advanced-atmospherics",
+    "name": "Продвинутые атмосферные технологии",
     "discipline": "Industrial",
     "tier": 2,
     "cost": 7500,
@@ -1401,7 +1401,7 @@
   },
   {
     "id": "AdvancedToolsTechnology",
-    "name": "research-technology-advanced-tools",
+    "name": "Продвинутые инструменты",
     "discipline": "Industrial",
     "tier": 2,
     "cost": 10000,
@@ -1415,7 +1415,7 @@
   },
   {
     "id": "BluespaceStorage",
-    "name": "research-technology-bluespace-storage",
+    "name": "Блюспейс хранилища",
     "discipline": "Industrial",
     "tier": 3,
     "cost": 15000,
@@ -1427,7 +1427,7 @@
   },
   {
     "id": "PortableFission",
-    "name": "research-technology-portable-fission",
+    "name": "Портативный распад",
     "discipline": "Industrial",
     "tier": 3,
     "cost": 10000,
@@ -1447,7 +1447,7 @@
   },
   {
     "id": "NightVisionTech",
-    "name": "research-technology-night-vision",
+    "name": "Технологии ночного видения",
     "discipline": "Experimental",
     "tier": 2,
     "cost": 10000,

@@ -635,7 +635,7 @@
   },
   {
     "id": "SpaceScanning",
-    "name": "research-technology-space-scanning",
+    "name": "Космическое сканирование",
     "discipline": "Industrial",
     "tier": 2,
     "cost": 7500,

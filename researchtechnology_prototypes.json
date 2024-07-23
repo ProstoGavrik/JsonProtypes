@@ -14,8 +14,8 @@
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
-      "WeaponProtoKineticAccelerator",
-      "ShuttleGunKineticCircuitboard"
+      "Протокинетический ускоритель",
+      "PTK-800 \"Дематериализатор материи\" (машинная плата)"
     ]
   },
   "DraconicMunitions": {
@@ -25,15 +25,15 @@
     "tier": 1,
     "cost": 10000,
     "recipeUnlocks": [
-      "ShellShotgunIncendiary",
-      "CartridgePistolIncendiary",
-      "CartridgeMagnumIncendiary",
-      "CartridgeLightRifleIncendiary",
-      "CartridgeRifleIncendiary",
-      "MagazineBoxPistolIncendiary",
-      "MagazineBoxMagnumIncendiary",
-      "MagazineBoxLightRifleIncendiary",
-      "MagazineBoxRifleIncendiary"
+      "Ружейный патрон (.50 зажигательный)",
+      "Патрон (.35 авто зажигательный)",
+      "Патрон (.45 магнум зажигательный)",
+      "Патрон (.30 винтовочный зажигательный)",
+      "Патрон (.20 винтовочный зажигательный)",
+      "Коробка патронов (.35 авто зажигательные)",
+      "Коробка патронов (.45 магнум зажигательные)",
+      "Коробка патронов (.30 винтовочные зажигательные)",
+      "Коробка патронов (.20 винтовочные зажигательные)"
     ]
   },
   "WeaponizedLaserManipulation": {
@@ -43,7 +43,7 @@
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
-      "WeaponLaserCarbine"
+      "Лазерная винтовка"
     ]
   },
   "NonlethalAmmunition": {
@@ -53,7 +53,7 @@
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
-      "ShellShotgunBeanbag",
+      "Ружейный патрон (.50 травматический)",
       "CartridgePistolRubber",
       "CartridgeMagnumRubber",
       "CartridgeLightRifleRubber",
@@ -71,15 +71,15 @@
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
-      "ShellShotgunUranium",
-      "CartridgePistolUranium",
-      "CartridgeMagnumUranium",
-      "CartridgeLightRifleUranium",
-      "CartridgeRifleUranium",
-      "MagazineBoxPistolUranium",
-      "MagazineBoxMagnumUranium",
-      "MagazineBoxLightRifleUranium",
-      "MagazineBoxRifleUranium"
+      "Ружейный патрон (.50 урановый)",
+      "Патрон (.35 авто урановый)",
+      "Патрон (.45 магнум урановый)",
+      "Патрон (.30 винтовочный урановый)",
+      "Патрон (.20 винтовочный урановый)",
+      "Коробка патронов (.35 авто урановые)",
+      "Коробка патронов (.45 магнум урановые)",
+      "Коробка патронов (.30 винтовочные урановые)",
+      "Коробка патронов (.20 винтовочные урановые)"
     ]
   },
   "AdvancedRiotControl": {
@@ -89,10 +89,10 @@
     "tier": 1,
     "cost": 8000,
     "recipeUnlocks": [
-      "Truncheon",
-      "TelescopicShield",
-      "HoloprojectorSecurity",
-      "WeaponDisablerSMG"
+      "Дубинка",
+      "Телескопический щит",
+      "Проектор голобарьера",
+      "Станнер-пулемёт"
     ]
   },
   "LightweightMagnets": {
@@ -113,12 +113,12 @@
     "cost": 10000,
     "recipeUnlocks": [
       "SignallerAdvanced",
-      "SignalTrigger",
-      "VoiceTrigger",
-      "TimerTrigger",
-      "FlashPayload",
-      "ExplosivePayload",
-      "ChemicalPayload"
+      "Сигнальный триггер",
+      "Голосовой триггер",
+      "Таймер-триггер",
+      "Светошумовой заряд",
+      "Разрывной заряд",
+      "Химический заряд"
     ]
   },
   "ConcentratedLaserWeaponry": {
@@ -128,7 +128,7 @@
     "tier": 2,
     "cost": 10000,
     "recipeUnlocks": [
-      "WeaponLaserCannon"
+      "Лазерная пушка"
     ]
   },
   "WaveParticleHarnessing": {
@@ -138,7 +138,7 @@
     "tier": 2,
     "cost": 10000,
     "recipeUnlocks": [
-      "WeaponXrayCannon"
+      "Рентгеновская пушка"
     ]
   },
   "BasicShuttleArmament": {
@@ -148,14 +148,14 @@
     "tier": 2,
     "cost": 10500,
     "recipeUnlocks": [
-      "PowerCageRechargerCircuitboard",
-      "PowerCageSmall",
-      "PowerCageMedium",
-      "MagazineGrenadeEmpty",
-      "GrenadeFlash",
-      "ShuttleGunSvalinnMachineGunCircuitboard",
-      "ShuttleGunPerforatorCircuitboard",
-      "ShuttleGunFriendshipCircuitboard"
+      "Зарядник энергоячеек (машинная плата)",
+      "Энергоячейка малой ёмкости",
+      "Энергоячейка средней ёмкости",
+      "Картридж гранат",
+      "Светошумовая граната",
+      "LSE-400c \"Пулемёт Свалинн\" (машинная плата)",
+      "LSE-1200c \"Перфоратор\" (машинная плата)",
+      "EXP-320g \"Дружба\" (машинная плата)"
     ]
   },
   "AdvancedGrips": {
@@ -175,7 +175,7 @@
     "tier": 3,
     "cost": 15000,
     "recipeUnlocks": [
-      "WeaponAdvancedLaser"
+      "Продвинутый лазерный пистолет"
     ]
   },
   "ExperimentalBatteryAmmo": {
@@ -185,7 +185,7 @@
     "tier": 3,
     "cost": 15000,
     "recipeUnlocks": [
-      "WeaponLaserSvalinn"
+      "Лазерный пистолет Свалинн"
     ]
   },
   "AdvancedShuttleWeapon": {
@@ -195,9 +195,9 @@
     "tier": 3,
     "cost": 15000,
     "recipeUnlocks": [
-      "GrenadeEMP",
-      "PowerCageHigh",
-      "ShuttleGunDusterCircuitboard"
+      "ЭМИ граната",
+      "Энергоячейка высокой ёмкости",
+      "EXP-2100g \"Дастер\" (машинная плата)"
     ]
   },
   "Hydroponics": {
@@ -207,11 +207,11 @@
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
-      "BorgModuleGardening",
-      "BorgModuleHarvesting",
-      "SeedExtractorMachineCircuitboard",
-      "HydroponicsTrayMachineCircuitboard",
-      "ReagentGrinderIndustrialMachineCircuitboard"
+      "Садовый модуль киборга",
+      "Урожайный модуль киборга",
+      "Экстрактор семян (машинная плата)",
+      "Гидропонный лоток (машинная плата)",
+      "Промышленный измельчитель реагентов (машинная плата)"
     ]
   },
   "CritterMechs": {
@@ -221,15 +221,15 @@
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
-      "HamtrHarness",
-      "HamtrLArm",
-      "HamtrRArm",
-      "HamtrLLeg",
-      "HamtrRLeg",
-      "HamtrCentralElectronics",
-      "HamtrPeripheralsElectronics",
-      "MechEquipmentGrabberSmall",
-      "VimHarness"
+      "Каркас ХАМЯК",
+      "Левая рука ХАМЯК",
+      "Правая рука ХАМЯК",
+      "Левая нога ХАМЯК",
+      "Правая нога ХАМЯК",
+      "Центральный модуль управления ХАМЯК",
+      "Модуль управления периферией ХАМЯК",
+      "Малая гидравлическая клешня",
+      "Каркас ВИМ"
     ]
   },
   "AudioVisualCommunication": {
@@ -239,13 +239,13 @@
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
-      "SurveillanceCameraRouterCircuitboard",
-      "SurveillanceCameraWirelessRouterCircuitboard",
-      "SurveillanceWirelessCameraMovableCircuitboard",
-      "SurveillanceWirelessCameraAnchoredCircuitboard",
-      "SurveillanceCameraMonitorCircuitboard",
-      "SurveillanceWirelessCameraMonitorCircuitboard",
-      "TelecomServerCircuitboard"
+      "Маршрутизатор камер наблюдения (машинная плата)",
+      "Маршрутизатор беспроводных камер наблюдения (машинная плата)",
+      "Мобильная беспроводная камера (машинная плата)",
+      "Беспроводная камера (машинная плата)",
+      "Монитор камер наблюдения (консольная плата)",
+      "Монитор беспроводных камер наблюдения (консольная плата)",
+      "Телекоммуникационный сервер (машинная плата)"
     ]
   },
   "AdvancedEntertainment": {
@@ -255,11 +255,11 @@
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
-      "ComputerTelevisionCircuitboard",
-      "SynthesizerInstrument",
-      "BorgModuleMusique",
-      "BorgModuleClowning",
-      "DawInstrumentMachineCircuitboard",
+      "Телевизор (консольная плата)",
+      "Синтезатор",
+      "Музыкальный модуль киборга",
+      "Клоунский модуль киборга",
+      "Цифровая звуковая рабочая станция (машинная плата)",
       "MassMediaCircuitboard"
     ]
   },
@@ -270,8 +270,8 @@
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
-      "BorgModuleLightReplacer",
-      "BorgModuleAdvancedCleaning"
+      "Лампозаменительный модуль киборга",
+      "Продвинутый чистящий модуль киборга"
     ]
   },
   "MeatManipulation": {
@@ -281,9 +281,9 @@
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
-      "FatExtractorMachineCircuitboard",
-      "BiofabricatorMachineCircuitboard",
-      "BiomassReclaimerMachineCircuitboard"
+      "Экстрактор жира (машинная плата)",
+      "Биофабрикатор (машинная плата)",
+      "Переработчик биомассы (машинная плата)"
     ]
   },
   "FauxAstroTiles": {
@@ -307,10 +307,10 @@
     "tier": 2,
     "cost": 7500,
     "recipeUnlocks": [
-      "StasisBedMachineCircuitboard",
-      "CryoPodMachineCircuitboard",
-      "CryostasisBeaker",
-      "SyringeCryostasis"
+      "Стазисная кровать (машинная плата)",
+      "Криокапсула (машинная плата)",
+      "Криостазисная мензурка",
+      "Криостазисный шприц"
     ]
   },
   "CrewMonitoring": {
@@ -320,7 +320,7 @@
     "tier": 2,
     "cost": 10000,
     "recipeUnlocks": [
-      "HandheldCrewMonitor"
+      "Портативный монитор экипажа"
     ]
   },
   "MechanizedTreatment": {
@@ -330,8 +330,8 @@
     "tier": 2,
     "cost": 5000,
     "recipeUnlocks": [
-      "BorgModuleAdvancedTreatment",
-      "BorgModuleDefibrillator"
+      "Продвинутый лечащий модуль киборга",
+      "Дефибрилляторный модуль киборга"
     ]
   },
   "AdvancedCleaning": {
@@ -341,8 +341,8 @@
     "tier": 2,
     "cost": 10000,
     "recipeUnlocks": [
-      "AdvMopItem",
-      "MegaSprayBottle"
+      "Продвинутая швабра",
+      "Мега-распылитель"
     ]
   },
   "HONKMech": {
@@ -352,15 +352,15 @@
     "tier": 2,
     "cost": 7500,
     "recipeUnlocks": [
-      "HonkerHarness",
-      "HonkerLArm",
-      "HonkerRArm",
-      "HonkerLLeg",
-      "HonkerRLeg",
-      "HonkerCentralElectronics",
-      "HonkerPeripheralsElectronics",
-      "HonkerTargetingElectronics",
-      "MechEquipmentHorn"
+      "Каркас Х.О.Н.К.",
+      "Левая рука Х.О.Н.К.",
+      "Правая рука Х.О.Н.К.",
+      "Левая нога Х.О.Н.К.",
+      "Правая нога Х.О.Н.К.",
+      "Центральный модуль управления Х.О.Н.К.",
+      "Модуль управления периферией Х.О.Н.К.",
+      "Модуль управления огнём Х.О.Н.К.",
+      "Гудок мехи"
     ]
   },
   "AdvancedSpray": {
@@ -370,8 +370,8 @@
     "tier": 2,
     "cost": 10000,
     "recipeUnlocks": [
-      "WeaponSprayNozzle",
-      "ClothingBackpackWaterTank"
+      "Форсунка-распылитель",
+      "Ранцевый водяной резервуар"
     ]
   },
   "BluespaceCargoTransport": {
@@ -381,7 +381,7 @@
     "tier": 3,
     "cost": 15000,
     "recipeUnlocks": [
-      "CargoTelepadMachineCircuitboard"
+      "Грузовой телепад (машинная плата)"
     ]
   },
   "QuantumFiberWeaving": {
@@ -391,7 +391,7 @@
     "tier": 3,
     "cost": 10000,
     "recipeUnlocks": [
-      "ClothingShoesBootsSpeed"
+      "Скороходы"
     ]
   },
   "BluespaceChemistry": {
@@ -401,8 +401,8 @@
     "tier": 3,
     "cost": 10000,
     "recipeUnlocks": [
-      "BluespaceBeaker",
-      "SyringeBluespace"
+      "Блюспейс мензурка",
+      "Блюспейс-шприц"
     ]
   },
   "BasicRobotics": {
@@ -412,9 +412,9 @@
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
-      "ProximitySensor",
+      "Датчик движения",
       "Drone",
-      "ExosuitFabricatorMachineCircuitboard"
+      "Фабрикатор экзокостюмов (машинная плата)"
     ]
   },
   "BasicAnomalousResearch": {
@@ -424,12 +424,12 @@
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
-      "AnomalyScanner",
-      "AnomalyLocator",
-      "AnomalyLocatorWide",
-      "BorgModuleAnomaly",
-      "APECircuitboard",
-      "AnomalyVesselCircuitboard"
+      "Сканер аномалий",
+      "Локатор аномалий",
+      "Локатор аномалий широкого спектра",
+      "Аномальный модуль киборга",
+      "М.А.К.А.К. (машинная плата)",
+      "Сосуд аномалии (машинная плата)"
     ]
   },
   "BasicXenoArcheology": {
@@ -439,10 +439,10 @@
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
-      "NodeScanner",
-      "BorgModuleArtifact",
-      "AnalysisComputerCircuitboard",
-      "ArtifactAnalyzerMachineCircuitboard"
+      "Сканер узлов",
+      "Артефактный модуль киборга",
+      "Аналитическая консоль (консольная плата)",
+      "Анализатор артефактов (машинная плата)"
     ]
   },
   "AlternativeResearch": {
@@ -452,7 +452,7 @@
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
-      "TechDiskComputerCircuitboard"
+      "Терминал технологических дисков (консольная плата)"
     ]
   },
   "MagnetsTech": {
@@ -462,7 +462,7 @@
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
-      "ClothingShoesBootsMagSci"
+      "Магнитные сапоги"
     ]
   },
   "AnomalyCoreHarnessing": {
@@ -472,7 +472,7 @@
     "tier": 1,
     "cost": 10000,
     "recipeUnlocks": [
-      "WeaponGauntletGorilla"
+      "Перчатка Г.О.Р.И.Л.Л.А."
     ]
   },
   "AbnormalArtifactManipulation": {
@@ -483,7 +483,7 @@
     "cost": 5000,
     "recipeUnlocks": [
       "TraversalDistorterMachineCircuitboard",
-      "ArtifactCrusherMachineCircuitboard"
+      "Дробитель артефактов (машинная плата)"
     ]
   },
   "AdvancedAnomalyResearch": {
@@ -493,9 +493,9 @@
     "tier": 2,
     "cost": 10000,
     "recipeUnlocks": [
-      "WeaponPistolCHIMP",
-      "AnomalySynchronizerCircuitboard",
-      "AnomalyVesselExperimentalCircuitboard"
+      "Излучатель М.А.Р.Т.Ы.Х.",
+      "Синхронизатор аномалий (машинная плата)",
+      "Экспериментальный сосуд аномалии (машинная плата)"
     ]
   },
   "DeterrenceTechnologies": {
@@ -505,8 +505,8 @@
     "tier": 2,
     "cost": 7500,
     "recipeUnlocks": [
-      "WeaponParticleDecelerator",
-      "HoloprojectorField"
+      "Портативный замедлитель частиц",
+      "Проектор силового поля"
     ]
   },
   "GravityManipulation": {
@@ -516,8 +516,8 @@
     "tier": 3,
     "cost": 10000,
     "recipeUnlocks": [
-      "WeaponForceGun",
-      "WeaponTetherGun"
+      "Силовая пушка",
+      "Гравипушка"
     ]
   },
   "QuantumLeaping": {
@@ -527,7 +527,7 @@
     "tier": 3,
     "cost": 10000,
     "recipeUnlocks": [
-      "DeviceQuantumSpinInverter"
+      "Инвертор квантового спина"
     ]
   },
   "SalvageEquipment": {
@@ -537,10 +537,10 @@
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
-      "MiningDrill",
-      "BorgModuleMining",
-      "OreProcessorIndustrialMachineCircuitboard",
-      "OreBagOfHolding"
+      "Шахтёрский бур",
+      "Шахтёрский модуль киборга",
+      "Промышленный переработчик руды (машинная плата)",
+      "Бездонная сумка для руды"
     ]
   },
   "AdvancedPowercells": {
@@ -550,8 +550,8 @@
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
-      "PowerCellHigh",
-      "TurboItemRechargerCircuitboard"
+      "Батарея высокой ёмкости",
+      "Турбозарядник (машинная плата)"
     ]
   },
   "MechanicalCompression": {
@@ -561,7 +561,7 @@
     "tier": 1,
     "cost": 10000,
     "recipeUnlocks": [
-      "FlatpackerMachineCircuitboard"
+      "Упаковщик 1001 (машинная плата)"
     ]
   },
   "IndustrialEngineering": {
@@ -571,9 +571,9 @@
     "tier": 1,
     "cost": 10000,
     "recipeUnlocks": [
-      "AutolatheHyperConvectionMachineCircuitboard",
-      "ProtolatheHyperConvectionMachineCircuitboard",
-      "SheetifierMachineCircuitboard"
+      "Гиперконвекционный автолат (машинная плата)",
+      "Гиперконвекционный протолат (машинная плата)",
+      "Лист-мастер 2000 (машинная плата)"
     ]
   },
   "PowerGeneration": {
@@ -583,13 +583,13 @@
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
-      "PortableGeneratorPacmanMachineCircuitboard",
-      "PortableGeneratorSuperPacmanMachineCircuitboard",
-      "PortableGeneratorJrPacmanMachineCircuitboard",
-      "PowerComputerCircuitboard",
-      "SolarControlComputerCircuitboard",
-      "SolarTrackerElectronics",
-      "EmitterCircuitboard"
+      "Портативный генератор П.А.К.М.А.Н. (машинная плата)",
+      "Портативный генератор С.У.П.Е.Р.П.А.К.М.А.Н. (машинная плата)",
+      "Портативный генератор М.И.Н.И.П.А.К.М.А.Н. (машинная плата)",
+      "Консоль контроля питания (консольная плата)",
+      "Консоль контроля солнечных батарей (консольная плата)",
+      "Микросхема солнечного трекера",
+      "Эмиттер (машинная плата)"
     ]
   },
   "AtmosphericTech": {
@@ -599,8 +599,8 @@
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
-      "ThermomachineFreezerMachineCircuitBoard",
-      "GasRecyclerMachineCircuitboard"
+      "Охладительная термомашина (машинная плата)",
+      "Переработчик газа (машинная плата)"
     ]
   },
   "RipleyAPLU": {
@@ -610,14 +610,14 @@
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
-      "RipleyHarness",
-      "RipleyLArm",
-      "RipleyRArm",
-      "RipleyLLeg",
-      "RipleyRLeg",
-      "RipleyCentralElectronics",
-      "RipleyPeripheralsElectronics",
-      "MechEquipmentGrabber"
+      "Каркас Рипли",
+      "Левая рука Рипли",
+      "Правая рука Рипли",
+      "Левая нога Рипли",
+      "Правая нога Рипли",
+      "Центральный модуль управления Рипли",
+      "Модуль управления периферией Рипли",
+      "Гидравлическая клешня"
     ]
   },
   "Grappling": {
@@ -627,8 +627,8 @@
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
-      "WeaponGrapplingGun",
-      "BorgModuleGrapplingGun"
+      "Крюк-пушка",
+      "Крюк-пушечный модуль киборга"
     ]
   },
   "SpaceScanning": {
@@ -638,9 +638,9 @@
     "tier": 2,
     "cost": 7500,
     "recipeUnlocks": [
-      "RadarConsoleCircuitboard",
-      "HandHeldMassScanner",
-      "BorgModuleGPS"
+      "Консоль сканера массы (консольная плата)",
+      "Ручной сканер массы",
+      "GPS модуль киборга"
     ]
   },
   "Shuttlecraft": {
@@ -650,10 +650,10 @@
     "tier": 2,
     "cost": 10000,
     "recipeUnlocks": [
-      "ShuttleConsoleCircuitboard",
-      "ThrusterMachineCircuitboard",
-      "GyroscopeMachineCircuitboard",
-      "MiniGravityGeneratorCircuitboard"
+      "Консоль управления шаттлом (консольная плата)",
+      "Ракетный двигатель (машинная плата)",
+      "Гироскоп (машинная плата)",
+      "Мини-генератор гравитации (машинная плата)"
     ]
   },
   "AdvancedAtmospherics": {
@@ -663,9 +663,9 @@
     "tier": 2,
     "cost": 7500,
     "recipeUnlocks": [
-      "HellfireFreezerMachineCircuitBoard",
-      "PortableScrubberMachineCircuitBoard",
-      "HolofanProjector"
+      "Адская охладительная термомашина (машинная плата)",
+      "Переносной скруббер (машинная плата)",
+      "Атмос голопроектор"
     ]
   },
   "AdvancedToolsTechnology": {
@@ -675,11 +675,11 @@
     "tier": 2,
     "cost": 10000,
     "recipeUnlocks": [
-      "WelderExperimental",
-      "PowerDrill",
-      "JawsOfLife",
-      "BorgModuleAdvancedTool",
-      "BorgModuleRCD"
+      "Экспериментальный сварочный аппарат",
+      "Электродрель",
+      "Челюсти жизни",
+      "Продвинутый инструментальный модуль киборга",
+      "РСУ-модуль киборга"
     ]
   },
   "BluespaceStorage": {
@@ -689,9 +689,9 @@
     "tier": 3,
     "cost": 15000,
     "recipeUnlocks": [
-      "ClothingBackpackHolding",
-      "ClothingBackpackSatchelHolding",
-      "ClothingBackpackDuffelHolding"
+      "Бездонный рюкзак",
+      "Бездонная сумка",
+      "Бездонный вещмешок"
     ]
   },
   "PortableFission": {
@@ -701,7 +701,7 @@
     "tier": 3,
     "cost": 10000,
     "recipeUnlocks": [
-      "PowerCellMicroreactor"
+      "Микрореакторная батарея"
     ]
   },
   "TemperatureWeaponry": {

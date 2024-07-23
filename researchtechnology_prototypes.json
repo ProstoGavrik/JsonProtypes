@@ -1,4 +1,4 @@
-{
+[
   "DefaultID": {
     "id": "DefaultID",
     "name": "name",
@@ -724,4 +724,4 @@
       "ClothingEyesNightVisionGoggles"
     ]
   }
-}
+]

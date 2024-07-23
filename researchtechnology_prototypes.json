@@ -10,7 +10,7 @@
   "SalvageWeapons": {
     "id": "SalvageWeapons",
     "name": "Вооружение для утилизации",
-    "discipline": "Арсенал",
+    "discipline": "Arsenal",
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
@@ -21,7 +21,7 @@
   "DraconicMunitions": {
     "id": "DraconicMunitions",
     "name": "Драконьи боеприпасы",
-    "discipline": "Арсенал",
+    "discipline": "Arsenal",
     "tier": 1,
     "cost": 10000,
     "recipeUnlocks": [
@@ -39,7 +39,7 @@
   "WeaponizedLaserManipulation": {
     "id": "WeaponizedLaserManipulation",
     "name": "Лазерные технологии в оружием",
-    "discipline": "Арсенал",
+    "discipline": "Arsenal",
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
@@ -49,7 +49,7 @@
   "NonlethalAmmunition": {
     "id": "NonlethalAmmunition",
     "name": "Нелетальные боеприпасы",
-    "discipline": "Арсенал",
+    "discipline": "Arsenal",
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
@@ -67,7 +67,7 @@
   "UraniumMunitions": {
     "id": "UraniumMunitions",
     "name": "Урановые боеприпасы",
-    "discipline": "Арсенал",
+    "discipline": "Arsenal",
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
@@ -85,7 +85,7 @@
   "AdvancedRiotControl": {
     "id": "AdvancedRiotControl",
     "name": "Продвинутое противодействие беспорядкам",
-    "discipline": "Арсенал",
+    "discipline": "Arsenal",
     "tier": 1,
     "cost": 8000,
     "recipeUnlocks": [
@@ -98,7 +98,7 @@
   "LightweightMagnets": {
     "id": "LightweightMagnets",
     "name": "research-technology-lightweight-magnets",
-    "discipline": "Арсенал",
+    "discipline": "Arsenal",
     "tier": 2,
     "cost": 7500,
     "recipeUnlocks": [
@@ -108,7 +108,7 @@
   "ExplosiveTechnology": {
     "id": "ExplosiveTechnology",
     "name": "Взрывные технологии",
-    "discipline": "Арсенал",
+    "discipline": "Arsenal",
     "tier": 2,
     "cost": 10000,
     "recipeUnlocks": [
@@ -124,7 +124,7 @@
   "ConcentratedLaserWeaponry": {
     "id": "ConcentratedLaserWeaponry",
     "name": "Оружие из концентрированного лазера",
-    "discipline": "Арсенал",
+    "discipline": "Arsenal",
     "tier": 2,
     "cost": 10000,
     "recipeUnlocks": [
@@ -134,7 +134,7 @@
   "WaveParticleHarnessing": {
     "id": "WaveParticleHarnessing",
     "name": "Применение волновых частиц",
-    "discipline": "Арсенал",
+    "discipline": "Arsenal",
     "tier": 2,
     "cost": 10000,
     "recipeUnlocks": [
@@ -144,7 +144,7 @@
   "BasicShuttleArmament": {
     "id": "BasicShuttleArmament",
     "name": "Базовое корабельное вооружение",
-    "discipline": "Арсенал",
+    "discipline": "Arsenal",
     "tier": 2,
     "cost": 10500,
     "recipeUnlocks": [
@@ -161,7 +161,7 @@
   "AdvancedGrips": {
     "id": "AdvancedGrips",
     "name": "research-technology-advanced-grips",
-    "discipline": "Арсенал",
+    "discipline": "Arsenal",
     "tier": 3,
     "cost": 10000,
     "recipeUnlocks": [
@@ -171,7 +171,7 @@
   "PortableMicrofusionWeaponry": {
     "id": "PortableMicrofusionWeaponry",
     "name": "Оруженый портативный микросинтез",
-    "discipline": "Арсенал",
+    "discipline": "Arsenal",
     "tier": 3,
     "cost": 15000,
     "recipeUnlocks": [
@@ -181,7 +181,7 @@
   "ExperimentalBatteryAmmo": {
     "id": "ExperimentalBatteryAmmo",
     "name": "Экспериментальные боеприпасы-батарейки",
-    "discipline": "Арсенал",
+    "discipline": "Arsenal",
     "tier": 3,
     "cost": 15000,
     "recipeUnlocks": [
@@ -191,7 +191,7 @@
   "AdvancedShuttleWeapon": {
     "id": "AdvancedShuttleWeapon",
     "name": "Продвинутое корабельное оружие",
-    "discipline": "Арсенал",
+    "discipline": "Arsenal",
     "tier": 3,
     "cost": 15000,
     "recipeUnlocks": [
@@ -203,7 +203,7 @@
   "Hydroponics": {
     "id": "Hydroponics",
     "name": "Основы гидропоники",
-    "discipline": "Гражданские службы",
+    "discipline": "CivilianServices",
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
@@ -217,7 +217,7 @@
   "CritterMechs": {
     "id": "CritterMechs",
     "name": "Мехи для животных",
-    "discipline": "Гражданские службы",
+    "discipline": "CivilianServices",
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
@@ -235,7 +235,7 @@
   "AudioVisualCommunication": {
     "id": "AudioVisualCommunication",
     "name": "ТВ связь",
-    "discipline": "Гражданские службы",
+    "discipline": "CivilianServices",
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
@@ -251,7 +251,7 @@
   "AdvancedEntertainment": {
     "id": "AdvancedEntertainment",
     "name": "Продвинутые развлечения",
-    "discipline": "Гражданские службы",
+    "discipline": "CivilianServices",
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
@@ -266,7 +266,7 @@
   "RoboticCleanliness": {
     "id": "RoboticCleanliness",
     "name": "Роботизированная уборка",
-    "discipline": "Гражданские службы",
+    "discipline": "CivilianServices",
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
@@ -277,7 +277,7 @@
   "MeatManipulation": {
     "id": "MeatManipulation",
     "name": "Манипулирование мясом",
-    "discipline": "Гражданские службы",
+    "discipline": "CivilianServices",
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
@@ -289,7 +289,7 @@
   "FauxAstroTiles": {
     "id": "FauxAstroTiles",
     "name": "искуственная астроплитка",
-    "discipline": "Гражданские службы",
+    "discipline": "CivilianServices",
     "tier": 2,
     "cost": 5000,
     "recipeUnlocks": [
@@ -303,7 +303,7 @@
   "BiochemicalStasis": {
     "id": "BiochemicalStasis",
     "name": "Биохимический стазис",
-    "discipline": "Гражданские службы",
+    "discipline": "CivilianServices",
     "tier": 2,
     "cost": 7500,
     "recipeUnlocks": [
@@ -316,7 +316,7 @@
   "CrewMonitoring": {
     "id": "CrewMonitoring",
     "name": "Отслеживание состояние экипажа",
-    "discipline": "Гражданские службы",
+    "discipline": "CivilianServices",
     "tier": 2,
     "cost": 10000,
     "recipeUnlocks": [
@@ -326,7 +326,7 @@
   "MechanizedTreatment": {
     "id": "MechanizedTreatment",
     "name": "Mechanized Treatment",
-    "discipline": "Гражданские службы",
+    "discipline": "CivilianServices",
     "tier": 2,
     "cost": 5000,
     "recipeUnlocks": [
@@ -337,7 +337,7 @@
   "AdvancedCleaning": {
     "id": "AdvancedCleaning",
     "name": "Продвинутая уборка",
-    "discipline": "Гражданские службы",
+    "discipline": "CivilianServices",
     "tier": 2,
     "cost": 10000,
     "recipeUnlocks": [
@@ -348,7 +348,7 @@
   "HONKMech": {
     "id": "HONKMech",
     "name": "Мех Х.О.Н.К.",
-    "discipline": "Гражданские службы",
+    "discipline": "CivilianServices",
     "tier": 2,
     "cost": 7500,
     "recipeUnlocks": [
@@ -366,7 +366,7 @@
   "AdvancedSpray": {
     "id": "AdvancedSpray",
     "name": "Продвинутые спреи",
-    "discipline": "Гражданские службы",
+    "discipline": "CivilianServices",
     "tier": 2,
     "cost": 10000,
     "recipeUnlocks": [
@@ -377,7 +377,7 @@
   "BluespaceCargoTransport": {
     "id": "BluespaceCargoTransport",
     "name": "Блюспейс-транспортировка грузов",
-    "discipline": "Гражданские службы",
+    "discipline": "CivilianServices",
     "tier": 3,
     "cost": 15000,
     "recipeUnlocks": [
@@ -387,7 +387,7 @@
   "QuantumFiberWeaving": {
     "id": "QuantumFiberWeaving",
     "name": "Плетение квантового волокна",
-    "discipline": "Гражданские службы",
+    "discipline": "CivilianServices",
     "tier": 3,
     "cost": 10000,
     "recipeUnlocks": [
@@ -397,7 +397,7 @@
   "BluespaceChemistry": {
     "id": "BluespaceChemistry",
     "name": "Блюспейс химия",
-    "discipline": "Гражданские службы",
+    "discipline": "CivilianServices",
     "tier": 3,
     "cost": 10000,
     "recipeUnlocks": [
@@ -408,7 +408,7 @@
   "BasicRobotics": {
     "id": "BasicRobotics",
     "name": "Основы робототехники",
-    "discipline": "Экспериментальная",
+    "discipline": "Experimental",
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
@@ -420,7 +420,7 @@
   "BasicAnomalousResearch": {
     "id": "BasicAnomalousResearch",
     "name": "Основы исследования аномалий",
-    "discipline": "Экспериментальная",
+    "discipline": "Experimental",
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
@@ -435,7 +435,7 @@
   "BasicXenoArcheology": {
     "id": "BasicXenoArcheology",
     "name": "Основы ксеноархеологии",
-    "discipline": "Экспериментальная",
+    "discipline": "Experimental",
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
@@ -448,7 +448,7 @@
   "AlternativeResearch": {
     "id": "AlternativeResearch",
     "name": "Альтернативные исследования",
-    "discipline": "Экспериментальная",
+    "discipline": "Experimental",
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
@@ -458,7 +458,7 @@
   "MagnetsTech": {
     "id": "MagnetsTech",
     "name": "Локализованный магнетизм",
-    "discipline": "Экспериментальная",
+    "discipline": "Experimental",
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
@@ -468,7 +468,7 @@
   "AnomalyCoreHarnessing": {
     "id": "AnomalyCoreHarnessing",
     "name": "Применение ядер аномалий",
-    "discipline": "Экспериментальная",
+    "discipline": "Experimental",
     "tier": 1,
     "cost": 10000,
     "recipeUnlocks": [
@@ -478,7 +478,7 @@
   "AbnormalArtifactManipulation": {
     "id": "AbnormalArtifactManipulation",
     "name": "Нестандартные манипуляции с артефактами",
-    "discipline": "Экспериментальная",
+    "discipline": "Experimental",
     "tier": 2,
     "cost": 5000,
     "recipeUnlocks": [
@@ -489,7 +489,7 @@
   "AdvancedAnomalyResearch": {
     "id": "AdvancedAnomalyResearch",
     "name": "Продвинутое исследование аномалией",
-    "discipline": "Экспериментальная",
+    "discipline": "Experimental",
     "tier": 2,
     "cost": 10000,
     "recipeUnlocks": [
@@ -501,7 +501,7 @@
   "DeterrenceTechnologies": {
     "id": "DeterrenceTechnologies",
     "name": "Технология сдерживания",
-    "discipline": "Экспериментальная",
+    "discipline": "Experimental",
     "tier": 2,
     "cost": 7500,
     "recipeUnlocks": [
@@ -512,7 +512,7 @@
   "GravityManipulation": {
     "id": "GravityManipulation",
     "name": "Управление гравитацией",
-    "discipline": "Экспериментальная",
+    "discipline": "Experimental",
     "tier": 3,
     "cost": 10000,
     "recipeUnlocks": [
@@ -523,7 +523,7 @@
   "QuantumLeaping": {
     "id": "QuantumLeaping",
     "name": "Квантовые скачки",
-    "discipline": "Экспериментальная",
+    "discipline": "Experimental",
     "tier": 3,
     "cost": 10000,
     "recipeUnlocks": [
@@ -533,7 +533,7 @@
   "SalvageEquipment": {
     "id": "SalvageEquipment",
     "name": "Утилизационное оборудование",
-    "discipline": "Промышленная",
+    "discipline": "Industrial",
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
@@ -546,7 +546,7 @@
   "AdvancedPowercells": {
     "id": "AdvancedPowercells",
     "name": "Продвинутые элементы питания",
-    "discipline": "Промышленная",
+    "discipline": "Industrial",
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
@@ -557,7 +557,7 @@
   "MechanicalCompression": {
     "id": "MechanicalCompression",
     "name": "Механическое уплотнение",
-    "discipline": "Промышленная",
+    "discipline": "Industrial",
     "tier": 1,
     "cost": 10000,
     "recipeUnlocks": [
@@ -567,7 +567,7 @@
   "IndustrialEngineering": {
     "id": "IndustrialEngineering",
     "name": "Промышленная инженерия",
-    "discipline": "Промышленная",
+    "discipline": "Industrial",
     "tier": 1,
     "cost": 10000,
     "recipeUnlocks": [
@@ -579,7 +579,7 @@
   "PowerGeneration": {
     "id": "PowerGeneration",
     "name": "Выработка электроэнергии",
-    "discipline": "Промышленная",
+    "discipline": "Industrial",
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
@@ -595,7 +595,7 @@
   "AtmosphericTech": {
     "id": "AtmosphericTech",
     "name": "Атмосферные технологии",
-    "discipline": "Промышленная",
+    "discipline": "Industrial",
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
@@ -606,7 +606,7 @@
   "RipleyAPLU": {
     "id": "RipleyAPLU",
     "name": "Рипли АВП",
-    "discipline": "Промышленная",
+    "discipline": "Industrial",
     "tier": 1,
     "cost": 7500,
     "recipeUnlocks": [
@@ -623,7 +623,7 @@
   "Grappling": {
     "id": "Grappling",
     "name": "Крюки",
-    "discipline": "Промышленная",
+    "discipline": "Industrial",
     "tier": 1,
     "cost": 5000,
     "recipeUnlocks": [
@@ -634,7 +634,7 @@
   "SpaceScanning": {
     "id": "SpaceScanning",
     "name": "research-technology-space-scanning",
-    "discipline": "Промышленная",
+    "discipline": "Industrial",
     "tier": 2,
     "cost": 7500,
     "recipeUnlocks": [
@@ -646,7 +646,7 @@
   "Shuttlecraft": {
     "id": "Shuttlecraft",
     "name": "Шаттлстроение",
-    "discipline": "Промышленная",
+    "discipline": "Industrial",
     "tier": 2,
     "cost": 10000,
     "recipeUnlocks": [
@@ -659,7 +659,7 @@
   "AdvancedAtmospherics": {
     "id": "AdvancedAtmospherics",
     "name": "Продвинутые атмосферные технологии",
-    "discipline": "Промышленная",
+    "discipline": "Industrial",
     "tier": 2,
     "cost": 7500,
     "recipeUnlocks": [
@@ -671,7 +671,7 @@
   "AdvancedToolsTechnology": {
     "id": "AdvancedToolsTechnology",
     "name": "Продвинутые инструменты",
-    "discipline": "Промышленная",
+    "discipline": "Industrial",
     "tier": 2,
     "cost": 10000,
     "recipeUnlocks": [
@@ -685,7 +685,7 @@
   "BluespaceStorage": {
     "id": "BluespaceStorage",
     "name": "Блюспейс хранилища",
-    "discipline": "Промышленная",
+    "discipline": "Industrial",
     "tier": 3,
     "cost": 15000,
     "recipeUnlocks": [
@@ -697,7 +697,7 @@
   "PortableFission": {
     "id": "PortableFission",
     "name": "Портативный распад",
-    "discipline": "Промышленная",
+    "discipline": "Industrial",
     "tier": 3,
     "cost": 10000,
     "recipeUnlocks": [
@@ -707,7 +707,7 @@
   "TemperatureWeaponry": {
     "id": "TemperatureWeaponry",
     "name": "research-technology-temperature-weaponry",
-    "discipline": "Арсенал",
+    "discipline": "Arsenal",
     "tier": 2,
     "cost": 7500,
     "recipeUnlocks": [
@@ -717,7 +717,7 @@
   "NightVisionTech": {
     "id": "NightVisionTech",
     "name": "Технологии ночного видения",
-    "discipline": "Экспериментальная",
+    "discipline": "Experimental",
     "tier": 2,
     "cost": 10000,
     "recipeUnlocks": [

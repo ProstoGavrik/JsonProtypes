@@ -1,13 +1,5 @@
 [
   {
-    "id": "DefaultID",
-    "name": "name",
-    "discipline": "discipline",
-    "tier": 0,
-    "cost": 0,
-    "recipeUnlocks": "recipeUnlocks"
-  },
-  {
     "id": "SalvageWeapons",
     "name": "Вооружение для утилизации",
     "discipline": "Arsenal",
@@ -289,7 +281,7 @@
   },
   {
     "id": "FauxAstroTiles",
-    "name": "искуственная астроплитка",
+    "name": "Искуственная астроплитка",
     "discipline": "CivilianServices",
     "tier": 2,
     "cost": 5000,

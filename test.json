@@ -226,7 +226,7 @@
   },
   "AudioVisualCommunication": {
     "id": "AudioVisualCommunication",
-    "name": "ТВ связь",
+    "name": "Т/В связь",
     "discipline": "CivilianServices",
     "tier": 1,
     "cost": 5000,
@@ -281,7 +281,7 @@
   },
   "FauxAstroTiles": {
     "id": "FauxAstroTiles",
-    "name": "искуственная астроплитка",
+    "name": "Искусственная астроплитка",
     "discipline": "CivilianServices",
     "tier": 2,
     "cost": 5000,
@@ -627,7 +627,7 @@
   },
   "SpaceScanning": {
     "id": "SpaceScanning",
-    "name": "research-technology-space-scanning",
+    "name": "Space Scanning",
     "discipline": "Industrial",
     "tier": 2,
     "cost": 7500,
@@ -720,7 +720,7 @@
   },
   "ThermalVisionTech": {
     "id": "ThermalVisionTech",
-    "name": "research-technology-thermal-vision",
+    "name": "Технологии термального видения",
     "discipline": "Experimental",
     "tier": 2,
     "cost": 10000,

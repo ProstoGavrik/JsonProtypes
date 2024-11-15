@@ -1,1 +1,853 @@
-
+{
+  "BasicShuttleArmament": {
+    "id": "BasicShuttleArmament",
+    "name": "research-technology-basic-shuttle-armament",
+    "tier": 2,
+    "cost": 10500,
+    "discipline": "Arsenal",
+    "recipeUnlocks": [
+      "PowerCageRechargerCircuitboard",
+      "PowerCageSmall",
+      "PowerCageMedium",
+      "MagazineGrenadeEmpty",
+      "GrenadeFlash",
+      "GrenadeBlast",
+      "ShuttleGunSvalinnMachineGunCircuitboard",
+      "ShuttleGunPerforatorCircuitboard",
+      "ShuttleGunFriendshipCircuitboard"
+    ]
+  },
+  "QuantumFiberWeaving": {
+    "id": "QuantumFiberWeaving",
+    "name": "research-technology-quantum-fiber-weaving",
+    "tier": 3,
+    "cost": 10000,
+    "discipline": "CivilianServices",
+    "recipeUnlocks": [
+      "ClothingShoesBootsSpeed"
+    ]
+  },
+  "AdvancedParts": {
+    "id": "AdvancedParts",
+    "name": "research-technology-advanced-parts",
+    "tier": 2,
+    "cost": 10000,
+    "discipline": "Experimental",
+    "recipeUnlocks": [
+      "AdvancedCapacitorStockPart",
+      "AdvancedMatterBinStockPart",
+      "NanoManipulatorStockPart"
+    ]
+  },
+  "BluespaceStorage": {
+    "id": "BluespaceStorage",
+    "name": "research-technology-bluespace-storage",
+    "tier": 3,
+    "cost": 15000,
+    "discipline": "Industrial",
+    "recipeUnlocks": [
+      "ClothingBackpackHolding",
+      "ClothingBackpackSatchelHolding",
+      "ClothingBackpackDuffelHolding"
+    ]
+  },
+  "SalvageWeapons": {
+    "id": "SalvageWeapons",
+    "name": "research-technology-salvage-weapons",
+    "tier": 1,
+    "cost": 5000,
+    "discipline": "Arsenal",
+    "recipeUnlocks": [
+      "WeaponProtoKineticAccelerator",
+      "ShuttleGunKineticCircuitboard"
+    ]
+  },
+  "BasicXenoArcheology": {
+    "id": "BasicXenoArcheology",
+    "name": "research-technology-basic-xenoarcheology",
+    "tier": 1,
+    "cost": 5000,
+    "discipline": "Experimental",
+    "recipeUnlocks": [
+      "NodeScanner",
+      "BorgModuleArtifact",
+      "AnalysisComputerCircuitboard",
+      "ArtifactAnalyzerMachineCircuitboard"
+    ]
+  },
+  "Hydroponics": {
+    "id": "Hydroponics",
+    "name": "research-technology-basic-hydroponics",
+    "tier": 1,
+    "cost": 5000,
+    "discipline": "CivilianServices",
+    "recipeUnlocks": [
+      "BorgModuleGardening",
+      "BorgModuleHarvesting",
+      "SeedExtractorMachineCircuitboard",
+      "HydroponicsTrayMachineCircuitboard",
+      "ReagentGrinderIndustrialMachineCircuitboard"
+    ]
+  },
+  "AdvancedAtmospherics": {
+    "id": "AdvancedAtmospherics",
+    "name": "research-technology-advanced-atmospherics",
+    "tier": 2,
+    "cost": 7500,
+    "discipline": "Industrial",
+    "recipeUnlocks": [
+      "HellfireFreezerMachineCircuitBoard",
+      "PortableScrubberMachineCircuitBoard",
+      "HolofanProjector"
+    ]
+  },
+  "AudioVisualCommunication": {
+    "id": "AudioVisualCommunication",
+    "name": "research-technology-audio-visual-communication",
+    "tier": 1,
+    "cost": 5000,
+    "discipline": "CivilianServices",
+    "recipeUnlocks": [
+      "SurveillanceCameraRouterCircuitboard",
+      "SurveillanceCameraWirelessRouterCircuitboard",
+      "SurveillanceWirelessCameraMovableCircuitboard",
+      "SurveillanceWirelessCameraAnchoredCircuitboard",
+      "SurveillanceCameraMonitorCircuitboard",
+      "SurveillanceWirelessCameraMonitorCircuitboard",
+      "TelecomServerCircuitboard"
+    ]
+  },
+  "EnergyGuns": {
+    "id": "EnergyGuns",
+    "name": "research-technology-energy-gun",
+    "tier": 1,
+    "cost": 7500,
+    "discipline": "Arsenal",
+    "recipeUnlocks": [
+      "WeaponEnergyGun",
+      "WeaponEnergyGunMini"
+    ]
+  },
+  "MagnetsTech": {
+    "id": "MagnetsTech",
+    "name": "research-technology-magnets-tech",
+    "tier": 1,
+    "cost": 7500,
+    "discipline": "Experimental",
+    "recipeUnlocks": [
+      "ClothingShoesBootsMagSci"
+    ]
+  },
+  "AtmosphericTech": {
+    "id": "AtmosphericTech",
+    "name": "research-technology-atmospheric-tech",
+    "tier": 1,
+    "cost": 7500,
+    "discipline": "Industrial",
+    "recipeUnlocks": [
+      "ThermomachineFreezerMachineCircuitBoard",
+      "GasRecyclerMachineCircuitboard"
+    ]
+  },
+  "AdvancedCleaning": {
+    "id": "AdvancedCleaning",
+    "name": "research-technology-advanced-cleaning",
+    "tier": 2,
+    "cost": 10000,
+    "discipline": "CivilianServices",
+    "recipeUnlocks": [
+      "AdvMopItem",
+      "MegaSprayBottle"
+    ]
+  },
+  "WaveParticleHarnessing": {
+    "id": "WaveParticleHarnessing",
+    "name": "research-technology-wave-particle-harnessing",
+    "tier": 2,
+    "cost": 10000,
+    "discipline": "Arsenal",
+    "recipeUnlocks": [
+      "WeaponXrayCannon"
+    ]
+  },
+  "EnergyGunsAdvanced": {
+    "id": "EnergyGunsAdvanced",
+    "name": "research-technology-energy-gun-advance",
+    "tier": 2,
+    "cost": 7500,
+    "discipline": "Arsenal",
+    "recipeUnlocks": [
+      "WeaponEnergyGunPistol"
+    ]
+  },
+  "DraconicMunitions": {
+    "id": "DraconicMunitions",
+    "name": "research-technology-draconic-munitions",
+    "tier": 1,
+    "cost": 10000,
+    "discipline": "Arsenal",
+    "recipeUnlocks": [
+      "BoxShotgunIncendiary",
+      "MagazineRifleIncendiary",
+      "MagazinePistolIncendiary",
+      "MagazineLightRifleIncendiary",
+      "SpeedLoaderMagnumIncendiary",
+      "MagazineShotgunIncendiary",
+      "MagazineBoxPistolIncendiary",
+      "MagazineBoxMagnumIncendiary",
+      "MagazineBoxLightRifleIncendiary",
+      "MagazineBoxRifleIncendiary",
+      "CartridgeSpecialIncendiary",
+      "MagazineBoxSpecialIncendiary"
+    ]
+  },
+  "NonlethalAmmunition": {
+    "id": "NonlethalAmmunition",
+    "name": "research-technology-nonlethal-ammunition",
+    "tier": 1,
+    "cost": 5000,
+    "discipline": "Arsenal",
+    "recipeUnlocks": [
+      "MagazineShotgunBeanbag",
+      "ShellTranquilizer",
+      "BoxBeanbag",
+      "CartridgePistolRubber",
+      "CartridgeMagnumRubber",
+      "CartridgeLightRifleRubber",
+      "CartridgeRifleRubber",
+      "MagazineBoxPistolRubber",
+      "MagazineBoxMagnumRubber",
+      "MagazineBoxLightRifleRubber",
+      "MagazineBoxRifleRubber",
+      "CartridgeSpecialRubber",
+      "MagazineBoxSpecialRubber",
+      "WeaponDisabler"
+    ]
+  },
+  "Grappling": {
+    "id": "Grappling",
+    "name": "research-technology-grappling",
+    "tier": 1,
+    "cost": 5000,
+    "discipline": "Industrial",
+    "recipeUnlocks": [
+      "WeaponGrapplingGun",
+      "BorgModuleGrapplingGun"
+    ]
+  },
+  "GravityManipulation": {
+    "id": "GravityManipulation",
+    "name": "research-technology-gravity-manipulation",
+    "tier": 3,
+    "cost": 10000,
+    "discipline": "Experimental",
+    "recipeUnlocks": [
+      "WeaponForceGun",
+      "WeaponTetherGun"
+    ]
+  },
+  "PowerGeneration": {
+    "id": "PowerGeneration",
+    "name": "research-technology-power-generation",
+    "tier": 1,
+    "cost": 7500,
+    "discipline": "Industrial",
+    "recipeUnlocks": [
+      "PortableGeneratorPacmanMachineCircuitboard",
+      "PortableGeneratorSuperPacmanMachineCircuitboard",
+      "PortableGeneratorJrPacmanMachineCircuitboard",
+      "PowerComputerCircuitboard",
+      "SolarControlComputerCircuitboard",
+      "SolarTrackerElectronics",
+      "EmitterCircuitboard"
+    ]
+  },
+  "RoboticCleanliness": {
+    "id": "RoboticCleanliness",
+    "name": "research-technology-robotic-cleanliness",
+    "tier": 1,
+    "cost": 5000,
+    "discipline": "CivilianServices",
+    "recipeUnlocks": [
+      "BorgModuleLightReplacer",
+      "BorgModuleAdvancedCleaning"
+    ]
+  },
+  "Shuttlecraft": {
+    "id": "Shuttlecraft",
+    "name": "research-technology-shuttlecraft",
+    "tier": 2,
+    "cost": 10000,
+    "discipline": "Industrial",
+    "recipeUnlocks": [
+      "ShuttleConsoleCircuitboard",
+      "ThrusterMachineCircuitboard",
+      "GyroscopeMachineCircuitboard",
+      "MiniGravityGeneratorCircuitboard"
+    ]
+  },
+  "ExplosiveTechnology": {
+    "id": "ExplosiveTechnology",
+    "name": "research-technology-explosive-technology",
+    "tier": 2,
+    "cost": 10000,
+    "discipline": "Arsenal",
+    "recipeUnlocks": [
+      "SignallerAdvanced",
+      "SignalTrigger",
+      "VoiceTrigger",
+      "TimerTrigger",
+      "FlashPayload",
+      "ExplosivePayload",
+      "ChemicalPayload"
+    ]
+  },
+  "IndustrialEngineering": {
+    "id": "IndustrialEngineering",
+    "name": "research-technology-industrial-engineering",
+    "tier": 1,
+    "cost": 10000,
+    "discipline": "Industrial",
+    "recipeUnlocks": [
+      "AutolatheHyperConvectionMachineCircuitboard",
+      "ProtolatheHyperConvectionMachineCircuitboard",
+      "CircuitImprinterHyperConvectionMachineCircuitboard",
+      "SheetifierMachineCircuitboard"
+    ]
+  },
+  "FauxAstroTiles": {
+    "id": "FauxAstroTiles",
+    "name": "research-technology-faux-astro-tiles",
+    "tier": 2,
+    "cost": 5000,
+    "discipline": "CivilianServices",
+    "recipeUnlocks": [
+      "FauxTileAstroGrass",
+      "FauxTileMowedAstroGrass",
+      "FauxTileJungleAstroGrass",
+      "FauxTileAstroIce",
+      "FauxTileAstroSnow"
+    ]
+  },
+  "BiochemicalStasis": {
+    "id": "BiochemicalStasis",
+    "name": "research-technology-biochemical-stasis",
+    "tier": 2,
+    "cost": 7500,
+    "discipline": "CivilianServices",
+    "recipeUnlocks": [
+      "StasisBedMachineCircuitboard",
+      "CryoPodMachineCircuitboard",
+      "CryostasisBeaker",
+      "SyringeCryostasis"
+    ]
+  },
+  "PortableFission": {
+    "id": "PortableFission",
+    "name": "research-technology-portable-fission",
+    "tier": 3,
+    "cost": 10000,
+    "discipline": "Industrial",
+    "recipeUnlocks": [
+      "PowerCellMicroreactor"
+    ]
+  },
+  "CritterMechs": {
+    "id": "CritterMechs",
+    "name": "research-technology-critter-mechs",
+    "tier": 1,
+    "cost": 7500,
+    "discipline": "CivilianServices",
+    "recipeUnlocks": [
+      "HamtrHarness",
+      "HamtrLArm",
+      "HamtrRArm",
+      "HamtrLLeg",
+      "HamtrRLeg",
+      "HamtrCentralElectronics",
+      "HamtrPeripheralsElectronics",
+      "MechEquipmentGrabberSmall",
+      "VimHarness"
+    ]
+  },
+  "BasicTranslation": {
+    "id": "BasicTranslation",
+    "name": "research-technology-basic-translation",
+    "tier": 2,
+    "cost": 10000,
+    "discipline": "CivilianServices",
+    "recipeUnlocks": [
+      "CanilunztTranslator",
+      "BubblishTranslator",
+      "NekomimeticTranslator",
+      "DraconicTranslator",
+      "SolCommonTranslator",
+      "RootSpeakTranslator",
+      "BasicGalaticCommonTranslatorImplanter",
+      "MofficTranslator"
+    ]
+  },
+  "PortableMicrofusionWeaponry": {
+    "id": "PortableMicrofusionWeaponry",
+    "name": "research-technology-portable-microfusion-weaponry",
+    "tier": 3,
+    "cost": 15000,
+    "discipline": "Arsenal",
+    "recipeUnlocks": [
+      "WeaponAdvancedLaser",
+      "PortableRecharger"
+    ]
+  },
+  "AdvancedAnomalyResearch": {
+    "id": "AdvancedAnomalyResearch",
+    "name": "research-technology-advanced-anomaly-research",
+    "tier": 2,
+    "cost": 10000,
+    "discipline": "Experimental",
+    "recipeUnlocks": [
+      "WeaponPistolCHIMP",
+      "AnomalySynchronizerCircuitboard",
+      "AnomalyVesselExperimentalCircuitboard"
+    ]
+  },
+  "QuantumLeaping": {
+    "id": "QuantumLeaping",
+    "name": "research-technology-quantum-leaping",
+    "tier": 3,
+    "cost": 10000,
+    "discipline": "Experimental",
+    "recipeUnlocks": [
+      "DeviceQuantumSpinInverter"
+    ]
+  },
+  "AbnormalArtifactManipulation": {
+    "id": "AbnormalArtifactManipulation",
+    "name": "research-technology-abnormal-artifact-manipulation",
+    "tier": 2,
+    "cost": 5000,
+    "discipline": "Experimental",
+    "recipeUnlocks": [
+      "ArtifactCrusherMachineCircuitboard"
+    ]
+  },
+  "MechanizedTreatment": {
+    "id": "MechanizedTreatment",
+    "name": "research-technology-mechanized-treatment",
+    "tier": 2,
+    "cost": 5000,
+    "discipline": "CivilianServices",
+    "recipeUnlocks": [
+      "BorgModuleAdvancedTreatment",
+      "BorgModuleDefibrillator"
+    ]
+  },
+  "DeterrenceTechnologies": {
+    "id": "DeterrenceTechnologies",
+    "name": "research-technology-deterrence",
+    "tier": 2,
+    "cost": 7500,
+    "discipline": "Experimental",
+    "recipeUnlocks": [
+      "WeaponParticleDecelerator",
+      "HoloprojectorField"
+    ]
+  },
+  "AlternativeResearch": {
+    "id": "AlternativeResearch",
+    "name": "research-technology-alternative-research",
+    "tier": 1,
+    "cost": 5000,
+    "discipline": "Experimental",
+    "recipeUnlocks": [
+      "TechDiskComputerCircuitboard",
+      "ReverseEngineeringMachineCircuitboard"
+    ]
+  },
+  "AdvancedShuttleWeapon": {
+    "id": "AdvancedShuttleWeapon",
+    "name": "research-technology-advanced-shuttle-weapon",
+    "tier": 3,
+    "cost": 15000,
+    "discipline": "Arsenal",
+    "recipeUnlocks": [
+      "GrenadeEMP",
+      "PowerCageHigh",
+      "ShuttleGunDusterCircuitboard"
+    ]
+  },
+  "SuperParts": {
+    "id": "SuperParts",
+    "name": "research-technology-super-parts",
+    "tier": 3,
+    "cost": 15000,
+    "discipline": "Experimental",
+    "recipeUnlocks": [
+      "SuperCapacitorStockPart",
+      "SuperMatterBinStockPart",
+      "PicoManipulatorStockPart"
+    ]
+  },
+  "AnomalyCoreHarnessing": {
+    "id": "AnomalyCoreHarnessing",
+    "name": "research-technology-anomaly-harnessing",
+    "tier": 1,
+    "cost": 10000,
+    "discipline": "Experimental",
+    "recipeUnlocks": [
+      "WeaponGauntletGorilla"
+    ]
+  },
+  "WeaponizedLaserManipulation": {
+    "id": "WeaponizedLaserManipulation",
+    "name": "research-technology-weaponized-laser-manipulation",
+    "tier": 1,
+    "cost": 7500,
+    "discipline": "Arsenal",
+    "recipeUnlocks": [
+      "WeaponLaserCarbine"
+    ]
+  },
+  "AdvancedTranslation": {
+    "id": "AdvancedTranslation",
+    "name": "research-technology-advanced-translation",
+    "tier": 3,
+    "cost": 15000,
+    "discipline": "CivilianServices",
+    "recipeUnlocks": [
+      "XenoTranslator",
+      "AdvancedGalaticCommonTranslatorImplanter",
+      "BubblishTranslatorImplanter",
+      "NekomimeticTranslatorImplanter",
+      "DraconicTranslatorImplanter",
+      "CanilunztTranslatorImplanter",
+      "SolCommonTranslatorImplanter",
+      "RootSpeakTranslatorImplanter",
+      "AnimalTranslator",
+      "MofficTranslatorImplanter"
+    ]
+  },
+  "BasicAnomalousResearch": {
+    "id": "BasicAnomalousResearch",
+    "name": "research-technology-basic-anomalous-research",
+    "tier": 1,
+    "cost": 5000,
+    "discipline": "Experimental",
+    "recipeUnlocks": [
+      "AnomalyScanner",
+      "AnomalyLocator",
+      "AnomalyLocatorWide",
+      "BorgModuleAnomaly",
+      "APECircuitboard",
+      "AnomalyVesselCircuitboard"
+    ]
+  },
+  "SalvageEquipment": {
+    "id": "SalvageEquipment",
+    "name": "research-technology-salvage-equipment",
+    "tier": 1,
+    "cost": 7500,
+    "discipline": "Industrial",
+    "recipeUnlocks": [
+      "MiningDrill",
+      "BorgModuleMining",
+      "OreProcessorIndustrialMachineCircuitboard",
+      "OreBagOfHolding",
+      "ClothingMaskWeldingGas",
+      "SalvageExpeditionsComputerCircuitboard"
+    ]
+  },
+  "Advanced Laser Manipulation": {
+    "id": "Advanced Laser Manipulation",
+    "name": "research-technology-advance-laser",
+    "tier": 2,
+    "cost": 12500,
+    "discipline": "Arsenal",
+    "recipeUnlocks": [
+      "WeaponGunLaserCarbineAutomatic"
+    ]
+  },
+  "ExoticAmmunition": {
+    "id": "ExoticAmmunition",
+    "name": "research-technology-exotic-ammunition",
+    "tier": 1,
+    "cost": 7500,
+    "discipline": "Arsenal",
+    "recipeUnlocks": [
+      "CartridgeSpecialHoly",
+      "CartridgeSpecialMindbreaker",
+      "ShellSoulbreaker"
+    ]
+  },
+  "SpaceScanning": {
+    "id": "SpaceScanning",
+    "name": "research-technology-space-scanning",
+    "tier": 2,
+    "cost": 7500,
+    "discipline": "Industrial",
+    "recipeUnlocks": [
+      "RadarConsoleCircuitboard",
+      "HandHeldMassScanner",
+      "BorgModuleGPS"
+    ]
+  },
+  "MechanicalCompression": {
+    "id": "MechanicalCompression",
+    "name": "research-technology-mechanical-compression",
+    "tier": 1,
+    "cost": 10000,
+    "discipline": "Industrial",
+    "recipeUnlocks": [
+      "FlatpackerMachineCircuitboard"
+    ]
+  },
+  "PsionicCountermeasures": {
+    "id": "PsionicCountermeasures",
+    "name": "research-technology-psionic-countermeasures",
+    "tier": 2,
+    "cost": 7500,
+    "discipline": "Experimental",
+    "recipeUnlocks": [
+      "ClothingHeadHelmetInsulated",
+      "ClothingHeadCage"
+    ]
+  },
+  "ConcentratedLaserWeaponry": {
+    "id": "ConcentratedLaserWeaponry",
+    "name": "research-technology-concentrated-laser-weaponry",
+    "tier": 2,
+    "cost": 10000,
+    "discipline": "Arsenal",
+    "recipeUnlocks": [
+      "WeaponLaserCannon"
+    ]
+  },
+  "BluespaceChemistry": {
+    "id": "BluespaceChemistry",
+    "name": "research-technology-bluespace-chemistry",
+    "tier": 3,
+    "cost": 10000,
+    "discipline": "CivilianServices",
+    "recipeUnlocks": [
+      "BluespaceBeaker",
+      "SyringeBluespace"
+    ]
+  },
+  "RipleyAPLU": {
+    "id": "RipleyAPLU",
+    "name": "research-technology-ripley-aplu",
+    "tier": 1,
+    "cost": 7500,
+    "discipline": "Industrial",
+    "recipeUnlocks": [
+      "RipleyHarness",
+      "RipleyLArm",
+      "RipleyRArm",
+      "RipleyLLeg",
+      "RipleyRLeg",
+      "RipleyCentralElectronics",
+      "RipleyPeripheralsElectronics",
+      "MechEquipmentGrabber"
+    ]
+  },
+  "AdvancedToolsTechnology": {
+    "id": "AdvancedToolsTechnology",
+    "name": "research-technology-advanced-tools",
+    "tier": 2,
+    "cost": 10000,
+    "discipline": "Industrial",
+    "recipeUnlocks": [
+      "WelderExperimental",
+      "PowerDrill",
+      "JawsOfLife",
+      "BorgModuleAdvancedTool",
+      "BorgModuleRCD"
+    ]
+  },
+  "UraniumMunitions": {
+    "id": "UraniumMunitions",
+    "name": "research-technology-uranium-munitions",
+    "tier": 1,
+    "cost": 7500,
+    "discipline": "Arsenal",
+    "recipeUnlocks": [
+      "MagazineRifleUranium",
+      "MagazinePistolUranium",
+      "MagazineLightRifleUranium",
+      "SpeedLoaderMagnumUranium",
+      "MagazineBoxPistolUranium",
+      "MagazineBoxMagnumUranium",
+      "MagazineBoxLightRifleUranium",
+      "MagazineBoxRifleUranium",
+      "BoxShotgunUranium",
+      "CartridgeSpecialUranium",
+      "MagazineBoxSpecialUranium"
+    ]
+  },
+  "NightVisionTech": {
+    "id": "NightVisionTech",
+    "name": "research-technology-night-vision",
+    "tier": 2,
+    "cost": 10000,
+    "discipline": "Experimental",
+    "recipeUnlocks": [
+      "ClothingEyesNightVisionGoggles"
+    ]
+  },
+  "AdvancedPowercells": {
+    "id": "AdvancedPowercells",
+    "name": "research-technology-advanced-powercells",
+    "tier": 1,
+    "cost": 7500,
+    "discipline": "Industrial",
+    "recipeUnlocks": [
+      "PowerCellHigh",
+      "TurboItemRechargerCircuitboard"
+    ]
+  },
+  "HONKMech": {
+    "id": "HONKMech",
+    "name": "research-technology-honk-mech",
+    "tier": 2,
+    "cost": 7500,
+    "discipline": "CivilianServices",
+    "recipeUnlocks": [
+      "HonkerHarness",
+      "HonkerLArm",
+      "HonkerRArm",
+      "HonkerLLeg",
+      "HonkerRLeg",
+      "HonkerCentralElectronics",
+      "HonkerPeripheralsElectronics",
+      "HonkerTargetingElectronics",
+      "MechEquipmentHorn"
+    ]
+  },
+  "ThermalVisionTech": {
+    "id": "ThermalVisionTech",
+    "name": "research-technology-thermal-vision",
+    "tier": 2,
+    "cost": 10000,
+    "discipline": "Experimental",
+    "recipeUnlocks": [
+      "ClothingEyesThermalVisionGoggles"
+    ]
+  },
+  "AdvancedEntertainment": {
+    "id": "AdvancedEntertainment",
+    "name": "research-technology-advanced-entertainment",
+    "tier": 1,
+    "cost": 7500,
+    "discipline": "CivilianServices",
+    "recipeUnlocks": [
+      "ComputerTelevisionCircuitboard",
+      "SynthesizerInstrument",
+      "BorgModuleMusique",
+      "BorgModuleClowning",
+      "DawInstrumentMachineCircuitboard",
+      "MassMediaCircuitboard",
+      "JukeboxCircuitBoard"
+    ]
+  },
+  "BasicRobotics": {
+    "id": "BasicRobotics",
+    "name": "research-technology-basic-robotics",
+    "tier": 1,
+    "cost": 5000,
+    "discipline": "Experimental",
+    "recipeUnlocks": [
+      "ProximitySensor",
+      "ExosuitFabricatorMachineCircuitboard"
+    ]
+  },
+  "MeatManipulation": {
+    "id": "MeatManipulation",
+    "name": "research-technology-meat-manipulation",
+    "tier": 1,
+    "cost": 7500,
+    "discipline": "CivilianServices",
+    "recipeUnlocks": [
+      "FatExtractorMachineCircuitboard",
+      "BiofabricatorMachineCircuitboard",
+      "BiomassReclaimerMachineCircuitboard"
+    ]
+  },
+  "BluespaceCargoTransport": {
+    "id": "BluespaceCargoTransport",
+    "name": "research-technology-bluespace-cargo-transport",
+    "tier": 2,
+    "cost": 15000,
+    "discipline": "CivilianServices",
+    "recipeUnlocks": [
+      "CargoTelepadMachineCircuitboard"
+    ]
+  },
+  "AdvancedRiotControl": {
+    "id": "AdvancedRiotControl",
+    "name": "research-technology-advanced-riot-control",
+    "tier": 1,
+    "cost": 8000,
+    "discipline": "Arsenal",
+    "recipeUnlocks": [
+      "ClothingEyesGlassesSecurity",
+      "Truncheon",
+      "TelescopicShield",
+      "HoloprojectorSecurity",
+      "WeaponDisablerSMG"
+    ]
+  },
+  "ExperimentalBatteryAmmo": {
+    "id": "ExperimentalBatteryAmmo",
+    "name": "research-technology-experimental-battery-ammo",
+    "tier": 3,
+    "cost": 15000,
+    "discipline": "Arsenal",
+    "recipeUnlocks": [
+      "WeaponLaserSvalinn"
+    ]
+  },
+  "AdvancedSpray": {
+    "id": "AdvancedSpray",
+    "name": "research-technology-advanced-spray",
+    "tier": 2,
+    "cost": 10000,
+    "discipline": "CivilianServices",
+    "recipeUnlocks": [
+      "WeaponSprayNozzle",
+      "ClothingBackpackWaterTank"
+    ]
+  },
+  "MechanizedSalvaging": {
+    "id": "MechanizedSalvaging",
+    "name": "research-technology-mechanized-salvaging",
+    "tier": 2,
+    "cost": 10000,
+    "discipline": "Industrial",
+    "recipeUnlocks": [
+      "BorgModulePka",
+      "BorgModuleJetpack"
+    ]
+  },
+  "Metempsychosis": {
+    "id": "Metempsychosis",
+    "name": "research-technology-metempsychosis",
+    "tier": 2,
+    "cost": 15000,
+    "discipline": "Experimental",
+    "recipeUnlocks": [
+      "BiomassReclaimerMachineCircuitboard",
+      "CloningConsoleComputerCircuitboard",
+      "MedicalScannerMachineCircuitboard",
+      "MetempsychoticMachineCircuitboard"
+    ]
+  },
+  "RapidPartExchange": {
+    "id": "RapidPartExchange",
+    "name": "research-technology-rped",
+    "tier": 2,
+    "cost": 7500,
+    "discipline": "Experimental",
+    "recipeUnlocks": [
+      "RPED"
+    ]
+  }
+}
